@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(165, 163, 163);
+}
+.miniinput{
+    font-size: 50px;
+    font-weight: 400;
+    color: #fff;
+}
+.calc{
+    margin: auto;
+    background-color: black;
+    border: 2px solid #fff;
+    width: 25%;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px;
+}
+.miniinput{
+    background-color: black;
+    border: 1px solid gray;
+    height: 90px;
+    width: 98.2%;
+}
+.numbtn{
+    padding: 16px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: x-large;
+    background-color: gray;
+}
+.numbtn:hover{
+    background-color: rgb(161, 159, 159);
+    color: #fff;
+}
+.culbtn{
+    padding: 16px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: x-large;
+    background-color: orange;
+}
+.culbtn:hover{
+    background-color: rgb(202, 133, 4);
+    color: #fff;
+}
+.c{
+    padding: 16px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: x-large;
+    background-color: rgb(165, 3, 3);
+}
+.c:hover{
+    background-color: rgb(214, 6, 6);
+    color: #fff;
+}
+.equal{
+    padding: 16px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: x-large;
+    background-color: green;
+}
+.equal:hover{
+    background-color: rgb(4, 161, 4);
+    color: #fff;
+}
